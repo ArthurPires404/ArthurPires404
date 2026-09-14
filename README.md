@@ -2,16 +2,16 @@
 <!-- ARTHUR PIRES SOARES READ.ME -->
 <!--------------------------------------->
 
-<!-- Esse READ.ME é inspirado no READ.ME de Lucas-C-Machado! -->
+<!-- This READ.ME is inspired in the READ.ME of Lucas-C-Machado! -->
 <!-- https://github.com/Lucas-C-Machado -->
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=40&duration=4000&pause=900&color=00950D&center=true&vCenter=true&width=900&lines=Arthur+Pires+Soares;Developer+in+training;Coding+with+love+%28and+coffee%29" alt="Typing SVG" /></a>
+ <p> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=40&duration=4000&pause=900&color=00950D&center=true&vCenter=true&width=900&lines=Arthur+Pires+Soares;Developer+in+training;Coding+with+love+%28and+coffee%29" alt="Typing SVG" /></a> </p>
 
-  <p>​✨​ Welcome to my world!​✨ </p>
+<h1 align="center">✨ Welcome to my world! ✨</h1>
+<p align="center">Entering the technological market world, to make the difference</p>
 
-</h1>
+----
 
 ## 🚀 Skills & Technologies
 
@@ -39,3 +39,5 @@
 </table>
 
 ## 💫​ Highlights
+
+  
