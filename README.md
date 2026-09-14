@@ -1,6 +1,41 @@
+<!--------------------------------------->
+<!-- ARTHUR PIRES SOARES READ.ME -->
+<!--------------------------------------->
+
+<!-- Esse READ.ME é inspirado no READ.ME de Lucas-C-Machado! -->
+<!-- https://github.com/Lucas-C-Machado -->
+
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Arthur+Pires+Soares" alt="Meu nome" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=40&duration=4000&pause=900&color=00950D&center=true&vCenter=true&width=900&lines=Arthur+Pires+Soares;Developer+in+training;Coding+with+love+%28and+coffee%29" alt="Typing SVG" /></a>
+
+  <p>​✨​ Welcome to my world!​✨ </p>
+
 </h1>
-<h2>
-  Bem-vindo ao meu perfil!!
-</h2>
+
+## 🚀 Skills & Technologies
+
+<table align="center">
+  <tr>
+    <th>Front-end</th>
+    <th>Tools</th>
+    <th>Back-end</th>
+    <th>Databases</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css" height="60">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github" height="60">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" height="60">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" height="60">
+    </td>
+  </tr>
+</table>
+
+## 💫​ Highlights
